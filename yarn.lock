@@ -1818,9 +1818,10 @@ to-regex-range@^5.0.1:
 
 tony-lang@tony-lang/tony#master:
   version "0.2.0-alpha"
-  resolved "https://codeload.github.com/tony-lang/tony/tar.gz/6fe3306c8e3f5fc58047cb8bd6a11055895d9805"
+  uid "5fdf6284942aff4043581afd558d16e4fe45c7cf"
+  resolved "https://codeload.github.com/tony-lang/tony/tar.gz/5fdf6284942aff4043581afd558d16e4fe45c7cf"
   dependencies:
-    tree-sitter-tony "0.2.0-alpha.29"
+    tree-sitter-tony "0.2.0-alpha.30"
 
 touch@^3.1.0:
   version "3.1.0"
@@ -1829,10 +1830,10 @@ touch@^3.1.0:
   dependencies:
     nopt "~1.0.10"
 
-tree-sitter-tony@0.2.0-alpha.29:
-  version "0.2.0-alpha.29"
-  resolved "https://registry.yarnpkg.com/tree-sitter-tony/-/tree-sitter-tony-0.2.0-alpha.29.tgz#45da5237cf1f1e88698f1fb7872dd41be1a5856d"
-  integrity sha512-F8G0XUvRwnzBCxk/BHK+z5+xZXOvv9myfUNOpwGLMbI/0iSuBu7NyPq8vhDe8raXwM0vyXZu85SZGVe4bM66/A==
+tree-sitter-tony@0.2.0-alpha.30:
+  version "0.2.0-alpha.30"
+  resolved "https://registry.yarnpkg.com/tree-sitter-tony/-/tree-sitter-tony-0.2.0-alpha.30.tgz#d6d3e7cd6f5ae5d25c12ff1e570a789ff6946adf"
+  integrity sha512-a7/sCn7KqVNzIiG1+FIYqzTrzaCvT23cc/6NY9tuX3Mdk3C9pdENiIa1Kf0YJSHFTgyV8TyVeMlQb0CngGG8KQ==
   dependencies:
     nan "^2.14.1"
     prebuild-install "^6.0.0"
