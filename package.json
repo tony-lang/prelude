@@ -1,6 +1,6 @@
 {
   "name": "tony-prelude",
-  "version": "0.1.0",
+  "version": "0.1.0-alpha",
   "description": "Standard library of the Tony programming language",
   "main": "dist/src/index.js",
   "source": "src/index.tn",
